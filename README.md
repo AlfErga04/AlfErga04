@@ -1,7 +1,11 @@
 <h1 align="center">Hellow 👋, I'm Alf_erga</h1>
 <h3 align="center">Currently a student in State University of Surabaya</h3>
 
+- 🔭 Currently struggling in **Cybersec, Back-end Develop (i guess?)**
+
 - 📫 Wanna reach me?? go ahead **alifian.erga04@gmail.com**
+
+- ⚡ Got some skills on **Editing, Photography, Graphic Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
