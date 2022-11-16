@@ -1,5 +1,7 @@
-<h1 align="center">Hellow 👋, I'm Alf_erga</h1>
+![Header](./[Your header image])
+<h1 align="center">Greetings.. ^_^</h1>
 <h3 align="center">Currently a student in State University of Surabaya</h3>
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611eeeba5962dad268fcba2681f7855610ba8cc1017&rid=giphy.gif&ct=g">
 
 - 🔭 Currently struggling in **Cybersec, Back-end Develop (i guess?)**
 
